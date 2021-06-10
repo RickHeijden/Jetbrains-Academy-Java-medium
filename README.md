@@ -1,4 +1,4 @@
-# Jetbrains-Academy-Java-medium
+# Jetbrains Academy Java medium
 
 This repository hold my solutions for the easy projects of [the java track](https://hyperskill.org/tracks/1) on
 https://www.jetbrains.com/academy/. <br/>
